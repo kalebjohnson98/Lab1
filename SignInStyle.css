@@ -1,0 +1,46 @@
+html {
+    background-color: salmon;
+}
+h3 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.signin-page {
+    width: 400px;
+    padding: 10% 0 0 0;
+    margin: auto;
+}
+.form {
+    display: inline-block;
+    position: fixed;
+    z-index: 1;
+    background: lightgray;
+    max-width: 100%;
+    margin: 0 auto 100px;
+    padding: 45px;
+    text-align: center;
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.2), 0 5px 5px 0 rgba(0, 0, 0, 0.24);
+}
+.button {
+    background-color: aquamarine;
+    width: 100%;
+}
+
+form#checkbox {
+    text-align: left;
+    margin-left: 20px;
+    margin-right: auto;
+}
+input {
+    padding: 10px;
+    border-radius: 5px;
+    height: auto;
+    margin: 5px;
+}
+#check {
+    text-align: left;
+    margin-left: 0px;
+    margin-right: auto;
+    margin-bottom: 5px;
+    margin-top: auto;
+}
